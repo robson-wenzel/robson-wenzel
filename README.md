@@ -1,8 +1,10 @@
 ## Oi, seja bem-vindo! Eu sou o Robson Wenzel.
 <div>
   <a href="https://github.com/robsonluizsoitic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonluizsoitic&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=robsonluizsoitic&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonluizsoitic&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  -->
   </a>
 </div>
 <div style="display: inline_block"><br>
